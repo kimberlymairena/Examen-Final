@@ -27,6 +27,7 @@ a{
 .navbar-light .navbar-nav .show > .nav-link{
 	color: #fff;	
 }
+
 .navbar-light .navbar-nav .show > .nav-link:focus,
 .navbar-light .navbar-nav .show > .nav-link:hover{
     color: #fff;
@@ -101,7 +102,7 @@ a{
 /*Altura definida para el Carousel manteniendo el aspecto de la imagen*/
 
 .carousel .carousel-item {
-  height: 500px;
+  height: 827px;
 }
 
 .carousel-item img {

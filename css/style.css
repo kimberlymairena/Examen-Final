@@ -24,13 +24,14 @@ footer{
 
 
 .carousel .carousel-indicators button {
-   width: 10px;
-   height: 10px;
+   width: 15px;
+   height: 15px;
    border-radius: 100%;
  }
 
 .title-slideshow{
 	font-size: 90px;
+	font-weight: 700;
 	padding-bottom: 20px;
 }
 
@@ -46,9 +47,10 @@ footer{
 	background-color: #FFFFFF;
 	color: var(--color-negro);
 	text-transform: uppercase;
-	
+	text-decoration: none;
+	font-weight: 800;
 }
-
+	
 .read-more:hover{
 	background-color: var(--color-negro);
 	color:#FFFFFF;
@@ -63,6 +65,7 @@ footer{
 	font-size: 20px;
 	text-align: center;
 	padding: 5%;
+	color: var(--color-negro);
 }
 
 .card-info{
@@ -83,23 +86,21 @@ footer{
 	padding: 50px;
 	background-repeat: no-repeat;
 	background-position: center;
-	margin: 60px 0 60px;
+	margin: 90px 0 70px;
 }
 
 .subtitle-cta{
 	padding-bottom: 30px;
-	color: #fff;
+	color:#fff;
 }
 
 .title-cta{
-	color: #fff;
+	color:#fff;
 }
 
-.read-more{
-	text-decoration: none;
-	font-weight: 800;
-}
+
 /* ---------------------------------------------------------------------------------------------------------------*/
+
 #clients{
 	padding: 60px 0 100px;
 }
